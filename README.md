@@ -52,24 +52,23 @@ ________________________________________
 📷 Captures d’écran 
 (Des images de l’application pour illustrer son fonctionnement.)
  
-
+<img width="958" alt="adminTableaudebord" src="https://github.com/user-attachments/assets/c49cd0be-19eb-4e9e-b228-90d49f7903b3" />
 Tableau de bord d’un Admin
 ________________________________________
 
- 
-
+<img width="958" alt="adminUser" src="https://github.com/user-attachments/assets/348ba21f-43ad-478d-bcec-4d3b09586637" />
 Page de gestion d’utilisateurs d’un Admin
-________________________________________
- 
+________________________________________ 
 
+<img width="958" alt="AdminSalles" src="https://github.com/user-attachments/assets/f52ff60e-2f0b-4c5f-a35d-5f1b0bff5bf5" />
 Page de gestion de salles de classes
-________________________________________
- 
-Tableau de bord d’un directeur département
-________________________________________
- 
+___________________________________
+
+ <img width="960" alt="gestiondecours" src="https://github.com/user-attachments/assets/14342c40-5c9b-44c7-af48-f487042ac053" />
 Page de gestion de cours d’un directeur département d’une école partenaire à IFRI 
 ________________________________________
+
+
 👥 Contributeurs et mentions spéciales
 •	BACHABI Rydwane (Chef d’équipe)
 •	AKOTAN Mahougnon Adolphe (Développeur back end) 
