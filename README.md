@@ -1,6 +1,6 @@
 GestionPlanningIFRI
 📖 Description du projet
-GestionPlanningIFRI est une application web développée pour gérer efficacement la planification des cours à l'IFRI et aux écoles partenaires à IFRI qui lui prête des salles de cours. Elle vise à simplifier la gestion des emplois du temps, des salles, des cours, des utilisateurs et des flux (spécialités) pour les départements.
+GestionPlanningIFRI est une application web conçue pour automatiser la réservation des salles de cours à l’IFRI et auprès de ses écoles partenaires. Elle permet d’optimiser l’utilisation des salles prêtées, d’éviter les conflits de planning et de synchroniser les emplois du temps en temps réel. Son financement repose sur des partenariats et du sponsoring, tandis qu’une commission sur les réservations peut être appliquée aux établissements partenaires. En réduisant la charge administrative et en améliorant la planification académique, cette solution garantit une gestion fluide et efficace des infrastructures éducatives.
 🎯 Objectifs du projet
 •	Automatiser la création des emplois du temps.
 •	Réduire les conflits de réservation de salles et de cours.
